@@ -1,0 +1,29 @@
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.csproj.AssemblyReference.cache
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.AssemblyInfoInputs.cache
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.AssemblyInfo.cs
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.exe
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.deps.json
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.runtimeconfig.json
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.dll
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.pdb
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.dll
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\refint\Algoritmia.dll
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.pdb
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.genruntimeconfig.cache
+C:\Users\ANTÓNIOMARQUES\OneDrive - IEFP Formação\vs\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\ref\Algoritmia.dll
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.exe
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.deps.json
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.runtimeconfig.json
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.dll
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\bin\Debug\net6.0\Algoritmia.pdb
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.AssemblyInfoInputs.cache
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.AssemblyInfo.cs
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.dll
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\refint\Algoritmia.dll
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.pdb
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\Algoritmia.genruntimeconfig.cache
+C:\Users\Marcelo Marques\A4\PI04\onedriveiefp\csharp\Algoritmia\Algoritmia\obj\Debug\net6.0\ref\Algoritmia.dll
